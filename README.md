@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estudo Ciência da Computação
 - 🌱 Estou aprendendo C++ e a lógica da programação
-- 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Falo inglês e francês!
 
  <div>
