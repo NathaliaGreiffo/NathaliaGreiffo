@@ -1,30 +1,60 @@
-# Olá, eu sou a Nathália Greiffo 👋
+# Olá, eu sou a Nathália Greiffo 👋  
 
-🎯 **Analista de Dados Pleno | Em transição para Engenharia de Dados**  
-💡 Foco em Python, SQL, Cloud, Big Data e Engenharia de Pipelines  
-🌍 Objetivo: trabalhar para uma empresa internacional na área de Dados  
+🎯 **Analista de Dados Pleno | Forte em Analytics Engineering**  
+📊 Especialista em transformar dados brutos em insights acionáveis  
+🌍 Objetivo: atuar em empresas internacionais na área de Dados  
 🗣️ Inglês e francês fluentes  
+
+Sou Analista de Dados com experiência em **Power BI, SQL e modelagem de dados**, atuando desde a ingestão e limpeza até a construção de dashboards executivos com foco em **performance, eficiência operacional e tomada de decisão**.  
+Tenho background técnico em **engenharia de dados** e sigo aprofundando em pipelines, cloud e big data.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL, C++, HTML/CSS  
-- **Big Data:** Apache Spark, Kafka, Hadoop  
-- **Orquestração:** Apache Airflow, Apache Hop  
-- **Cloud:** AWS (S3, Redshift, Athena), GCP (BigQuery), Azure Data Factory  
-- **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
-- **Visualização:** Power BI  
-- **Versionamento:** Git & GitHub
+
+### 🔹 Análise & Visualização
+- Power BI (Power Query, DAX, Modelagem Dimensional)
+- Storytelling com dados
+- Dashboards executivos e analíticos
+
+### 🔹 Linguagens & Dados
+- Python  
+- SQL  
+- C++
+
+### 🔹 Engenharia de Dados
+- Apache Spark  
+- Apache Kafka  
+- Apache Airflow  
+- Apache Hop  
+
+### 🔹 Cloud
+- AWS 
+- Azure Data Factory  
+
+### 🔹 Bancos de Dados
+- PostgreSQL  
+- MySQL  
+- SQL Server  
+
+### 🔹 Versionamento
+- Git & GitHub  
 
 ---
 
 ## 📌 Projetos em Destaque
-- [📂 Pipeline ETL com Python + Airflow](https://github.com/SeuUsuario/etl-pipeline-airflow)  
-- [📊 Dashboard Power BI com dados processados no Spark](https://github.com/SeuUsuario/dashboard-spark)  
-- [🌐 Streaming com Kafka](https://github.com/SeuUsuario/kafka-streaming)  
-- [☁️ Data Warehouse em AWS Redshift](https://github.com/SeuUsuario/aws-redshift-warehouse)  
 
----
+### 📊 B2B – Análise de Performance & Eficiência (Power BI)
+Dashboard analítico focado em **receita, margem, eficiência operacional e atingimento de metas**, aplicando boas práticas de:
+- Limpeza e padronização de dados  
+- Modelagem estrela  
+- Tabela calendário dinâmica  
+- Medidas DAX reutilizáveis  
+- Comparação Real x Meta  
+- Storytelling executivo  
+
+🔗 **Dashboard publicado:** *https://app.powerbi.com/view?r=eyJrIjoiNzMyYjJmMWItYmQ3OS00MjYwLWJmMDAtZmRkZTg2N2QxNzAyIiwidCI6ImQwOTEwZmZkLThhMzctNGJkYi1iYTY1LTdkMmQwZWI1N2RlOSIsImMiOjR9*  
+📂 **Repositório:** *(link do repositório)*  
 
 ## 📈 GitHub Stats
 ![Nathália's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathaliaGreiffo&show_icons=true&theme=radical)
@@ -32,4 +62,4 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/nath%C3%A1lia-greiffo-0139a61ba/) | [Instagram](https://instagram.com/seuusuario) | [Discord](https://discord.gg/seulink)
+[LinkedIn](https://www.linkedin.com/in/nath%C3%A1lia-greiffo-0139a61ba/)
