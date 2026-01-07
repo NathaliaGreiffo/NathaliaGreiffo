@@ -54,7 +54,7 @@ Dashboard analítico focado em **receita, margem, eficiência operacional e atin
 - Storytelling executivo  
 
 🔗 **Dashboard publicado:** *https://app.powerbi.com/view?r=eyJrIjoiNzMyYjJmMWItYmQ3OS00MjYwLWJmMDAtZmRkZTg2N2QxNzAyIiwidCI6ImQwOTEwZmZkLThhMzctNGJkYi1iYTY1LTdkMmQwZWI1N2RlOSIsImMiOjR9*  
-📂 **Repositório:** *(link do repositório)*  
+📂 **Repositório:** *https://github.com/NathaliaGreiffo/Dashboard-B2B-Performance*  
 
 ## 📈 GitHub Stats
 ![Nathália's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathaliaGreiffo&show_icons=true&theme=radical)
